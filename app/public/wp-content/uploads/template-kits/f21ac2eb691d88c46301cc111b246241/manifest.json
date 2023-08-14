@@ -1,0 +1,1639 @@
+{
+    "manifest_version": "1.0.20",
+    "title": "Puff Clouds - Vape Store & Community Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.1",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "http:\/\/kfkit.rometheme.pro",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "http:\/\/kfkit.rometheme.pro\/puffclouds\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "http:\/\/kfkit.rometheme.pro\/puffclouds\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "http:\/\/kfkit.rometheme.pro\/puffclouds\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "http:\/\/kfkit.rometheme.pro\/puffclouds\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404 Page",
+            "screenshot": "screenshots\/404-page.jpg",
+            "source": "templates\/404-page.json",
+            "preview_url": "http:\/\/kfkit.rometheme.pro\/puffclouds\/template-kit\/404-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Faq",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "http:\/\/kfkit.rometheme.pro\/puffclouds\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Team",
+            "screenshot": "screenshots\/our-team.jpg",
+            "source": "templates\/our-team.json",
+            "preview_url": "http:\/\/kfkit.rometheme.pro\/puffclouds\/template-kit\/our-team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Product Detail",
+            "screenshot": "screenshots\/product-detail.jpg",
+            "source": "templates\/product-detail.json",
+            "preview_url": "http:\/\/kfkit.rometheme.pro\/puffclouds\/template-kit\/product-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Product",
+            "screenshot": "screenshots\/our-product.jpg",
+            "source": "templates\/our-product.json",
+            "preview_url": "http:\/\/kfkit.rometheme.pro\/puffclouds\/template-kit\/our-product\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "http:\/\/kfkit.rometheme.pro\/puffclouds\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "http:\/\/kfkit.rometheme.pro\/puffclouds\/template-kit\/1075\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "http:\/\/kfkit.rometheme.pro\/puffclouds\/template-kit\/963\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Homepage 2",
+            "screenshot": "screenshots\/homepage-2.jpg",
+            "source": "templates\/homepage-2.json",
+            "preview_url": "http:\/\/kfkit.rometheme.pro\/puffclouds\/template-kit\/homepage-2\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Homepage 1",
+            "screenshot": "screenshots\/homepage-1.jpg",
+            "source": "templates\/homepage-1.json",
+            "preview_url": "http:\/\/kfkit.rometheme.pro\/puffclouds\/template-kit\/homepage\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.4.4",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.3.7",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Contact Form 7",
+            "version": "5.4.2",
+            "file": "contact-form-7\/wp-contact-form-7.php",
+            "author": "Takayuki Miyoshi"
+        }
+    ],
+    "images": [
+        {
+            "filename": "Landing-Bg.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/puffclouds\/wp-content\/uploads\/sites\/11\/2021\/09\/Landing-Bg-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                }
+            ],
+            "filesize": 232832,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Footer-Bg.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/puffclouds\/wp-content\/uploads\/sites\/11\/2021\/09\/Footer-Bg-800x450.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 20717,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Logo-2.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/puffclouds\/wp-content\/uploads\/sites\/11\/2021\/09\/Logo-2-800x221.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 240673,
+            "dimensions": [
+                1375,
+                380
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Cove-1.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/puffclouds\/wp-content\/uploads\/sites\/11\/2021\/09\/Cove-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/product-detail.json",
+                    "name": "Product Detail"
+                },
+                {
+                    "source": "templates\/our-product.json",
+                    "name": "Our Product"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 143243,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/girl-sits-and-smokes-electronic-cigarette-U4DN587"
+        },
+        {
+            "filename": "Bg-2.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/puffclouds\/wp-content\/uploads\/sites\/11\/2021\/09\/Bg-2-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                },
+                {
+                    "source": "templates\/our-product.json",
+                    "name": "Our Product"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                }
+            ],
+            "filesize": 164295,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/20-smoke-backgrounds-textures-SHK5ZD"
+        },
+        {
+            "filename": "Address.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/puffclouds\/wp-content\/uploads\/sites\/11\/2021\/09\/Address.png",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                }
+            ],
+            "filesize": 20927,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/contact-us-unique-web-line-icons-pack-HMYAEYL"
+        },
+        {
+            "filename": "Call-Us.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/puffclouds\/wp-content\/uploads\/sites\/11\/2021\/09\/Call-Us.png",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                }
+            ],
+            "filesize": 15014,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/contact-us-unique-web-line-icons-pack-HMYAEYL"
+        },
+        {
+            "filename": "Email-Us.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/puffclouds\/wp-content\/uploads\/sites\/11\/2021\/09\/Email-Us.png",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                }
+            ],
+            "filesize": 12052,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/contact-us-unique-web-line-icons-pack-HMYAEYL"
+        },
+        {
+            "filename": "B-1.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/puffclouds\/wp-content\/uploads\/sites\/11\/2021\/09\/B-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                }
+            ],
+            "filesize": 244439,
+            "dimensions": [
+                600,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/vaping-e-liquid-from-an-electronic-cigarette-LPNHFUE"
+        },
+        {
+            "filename": "B-2.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/puffclouds\/wp-content\/uploads\/sites\/11\/2021\/09\/B-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                }
+            ],
+            "filesize": 133369,
+            "dimensions": [
+                600,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/stylish-girl-smoking-an-e-cigarette-UL94RPC"
+        },
+        {
+            "filename": "B-3.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/puffclouds\/wp-content\/uploads\/sites\/11\/2021\/09\/B-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                }
+            ],
+            "filesize": 244383,
+            "dimensions": [
+                600,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/activating-electronic-cigarette-isolated-on-black--39HYHXD"
+        },
+        {
+            "filename": "B-4.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/puffclouds\/wp-content\/uploads\/sites\/11\/2021\/09\/B-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                }
+            ],
+            "filesize": 154118,
+            "dimensions": [
+                600,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-bearded-man-wearing-cap-exhaling-smoke-of-el-4TTZSWG"
+        },
+        {
+            "filename": "LP-4.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/puffclouds\/wp-content\/uploads\/sites\/11\/2021\/09\/LP-4-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                }
+            ],
+            "filesize": 184354,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/vaping-flavored-e-liquid-from-an-electronic-cigare-TTRJTB9"
+        },
+        {
+            "filename": "LP-5.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/puffclouds\/wp-content\/uploads\/sites\/11\/2021\/09\/LP-5-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                }
+            ],
+            "filesize": 238897,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/vaping-young-man-produces-vapor-on-sunset-silhouet-PUY5CMK"
+        },
+        {
+            "filename": "LP-6.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/puffclouds\/wp-content\/uploads\/sites\/11\/2021\/09\/LP-6-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                }
+            ],
+            "filesize": 242479,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-woman-outdoor-vaping-e-cigarette-on-modern-c-AHASS2S"
+        },
+        {
+            "filename": "CTA.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/puffclouds\/wp-content\/uploads\/sites\/11\/2021\/09\/CTA.png",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/product-detail.json",
+                    "name": "Product Detail"
+                },
+                {
+                    "source": "templates\/our-product.json",
+                    "name": "Our Product"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                }
+            ],
+            "filesize": 247852,
+            "dimensions": [
+                450,
+                450
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/vape-kit-mockup-AQ58J9U"
+        },
+        {
+            "filename": "Bg-Team-1.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/puffclouds\/wp-content\/uploads\/sites\/11\/2021\/09\/Bg-Team-1-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                }
+            ],
+            "filesize": 25369,
+            "dimensions": [
+                900,
+                900
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Team-1.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/puffclouds\/wp-content\/uploads\/sites\/11\/2021\/09\/Team-1.png",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                }
+            ],
+            "filesize": 242217,
+            "dimensions": [
+                405,
+                405
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/glamorous-tattooed-bald-fashionable-male-model-pos-WV3HXNX"
+        },
+        {
+            "filename": "Team-4.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/puffclouds\/wp-content\/uploads\/sites\/11\/2021\/09\/Team-4.png",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                }
+            ],
+            "filesize": 232086,
+            "dimensions": [
+                450,
+                450
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/a-man-with-tattoos-on-arms-AA8BY9M"
+        },
+        {
+            "filename": "Team-3.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/puffclouds\/wp-content\/uploads\/sites\/11\/2021\/09\/Team-3.png",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 243742,
+            "dimensions": [
+                450,
+                450
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-a-handsome-old-fashioned-hipster-in-a--8CTH27E"
+        },
+        {
+            "filename": "Team-2.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/puffclouds\/wp-content\/uploads\/sites\/11\/2021\/09\/Team-2.png",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                }
+            ],
+            "filesize": 206601,
+            "dimensions": [
+                450,
+                450
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/serious-hipster-in-black-jacket-looking-at-camera--LSAQQ8V"
+        },
+        {
+            "filename": "Team-5.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/puffclouds\/wp-content\/uploads\/sites\/11\/2021\/09\/Team-5.png",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                }
+            ],
+            "filesize": 255009,
+            "dimensions": [
+                387,
+                387
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/redhead-hipster-male-in-a-studio-R9DH4NH"
+        },
+        {
+            "filename": "Team-6.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/puffclouds\/wp-content\/uploads\/sites\/11\/2021\/09\/Team-6.png",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 247009,
+            "dimensions": [
+                450,
+                450
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/tattooed-grandfather-in-shirt-looks-at-camera-posi-LKPU8AT"
+        },
+        {
+            "filename": "Vaperezoo-E41.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/puffclouds\/wp-content\/uploads\/sites\/11\/2021\/09\/Vaperezoo-E41.png",
+            "templates": [
+                {
+                    "source": "templates\/product-detail.json",
+                    "name": "Product Detail"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                }
+            ],
+            "filesize": 255807,
+            "dimensions": [
+                450,
+                675
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/vape-kit-mockup-AQ58J9U"
+        },
+        {
+            "filename": "Landing-Page-1.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/puffclouds\/wp-content\/uploads\/sites\/11\/2021\/09\/Landing-Page-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/product-detail.json",
+                    "name": "Product Detail"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                }
+            ],
+            "filesize": 187414,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/vaping-flavored-e-liquid-from-an-electronic-cigare-TTRJTB9"
+        },
+        {
+            "filename": "testimonial-1.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/puffclouds\/wp-content\/uploads\/sites\/11\/2021\/09\/testimonial-1.png",
+            "templates": [
+                {
+                    "source": "templates\/product-detail.json",
+                    "name": "Product Detail"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                }
+            ],
+            "filesize": 117938,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collage-of-diverse-entrepreneurs-laughing-against--4V9NAJX"
+        },
+        {
+            "filename": "testimonial-4.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/puffclouds\/wp-content\/uploads\/sites\/11\/2021\/09\/testimonial-4.png",
+            "templates": [
+                {
+                    "source": "templates\/product-detail.json",
+                    "name": "Product Detail"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                }
+            ],
+            "filesize": 145309,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collage-of-diverse-entrepreneurs-laughing-against--4V9NAJX"
+        },
+        {
+            "filename": "testimonial-3.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/puffclouds\/wp-content\/uploads\/sites\/11\/2021\/09\/testimonial-3.png",
+            "templates": [
+                {
+                    "source": "templates\/product-detail.json",
+                    "name": "Product Detail"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                }
+            ],
+            "filesize": 100598,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collage-of-diverse-entrepreneurs-laughing-against--4V9NAJX"
+        },
+        {
+            "filename": "Bg-1.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/puffclouds\/wp-content\/uploads\/sites\/11\/2021\/09\/Bg-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-product.json",
+                    "name": "Our Product"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                }
+            ],
+            "filesize": 241387,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/20-smoke-backgrounds-textures-SHK5ZD"
+        },
+        {
+            "filename": "Bg-6.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/puffclouds\/wp-content\/uploads\/sites\/11\/2021\/09\/Bg-6-800x356.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-product.json",
+                    "name": "Our Product"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                }
+            ],
+            "filesize": 196171,
+            "dimensions": [
+                900,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/dropper-bottle-mockup-C4AGYRS"
+        },
+        {
+            "filename": "Bg-5.1.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/puffclouds\/wp-content\/uploads\/sites\/11\/2021\/09\/Bg-5.1-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-product.json",
+                    "name": "Our Product"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                }
+            ],
+            "filesize": 156248,
+            "dimensions": [
+                900,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/vape-kit-mockup-AQ58J9U"
+        },
+        {
+            "filename": "Bg-3.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/puffclouds\/wp-content\/uploads\/sites\/11\/2021\/09\/Bg-3-800x356.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-product.json",
+                    "name": "Our Product"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                }
+            ],
+            "filesize": 190686,
+            "dimensions": [
+                900,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/dropper-bottle-mockup-C4AGYRS"
+        },
+        {
+            "filename": "1-1.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/puffclouds\/wp-content\/uploads\/sites\/11\/2021\/09\/1-1.png",
+            "templates": [
+                {
+                    "source": "templates\/our-product.json",
+                    "name": "Our Product"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                }
+            ],
+            "filesize": 13577,
+            "dimensions": [
+                300,
+                115
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "1-2.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/puffclouds\/wp-content\/uploads\/sites\/11\/2021\/09\/1-2.png",
+            "templates": [
+                {
+                    "source": "templates\/our-product.json",
+                    "name": "Our Product"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                }
+            ],
+            "filesize": 6523,
+            "dimensions": [
+                300,
+                115
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "1-3.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/puffclouds\/wp-content\/uploads\/sites\/11\/2021\/09\/1-3.png",
+            "templates": [
+                {
+                    "source": "templates\/our-product.json",
+                    "name": "Our Product"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                }
+            ],
+            "filesize": 8597,
+            "dimensions": [
+                300,
+                115
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "1-5.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/puffclouds\/wp-content\/uploads\/sites\/11\/2021\/09\/1-5.png",
+            "templates": [
+                {
+                    "source": "templates\/our-product.json",
+                    "name": "Our Product"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                }
+            ],
+            "filesize": 5039,
+            "dimensions": [
+                300,
+                115
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "1-6.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/puffclouds\/wp-content\/uploads\/sites\/11\/2021\/09\/1-6.png",
+            "templates": [
+                {
+                    "source": "templates\/our-product.json",
+                    "name": "Our Product"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                }
+            ],
+            "filesize": 6074,
+            "dimensions": [
+                300,
+                115
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "G-4.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/puffclouds\/wp-content\/uploads\/sites\/11\/2021\/09\/G-4-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-product.json",
+                    "name": "Our Product"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                }
+            ],
+            "filesize": 137819,
+            "dimensions": [
+                900,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/vaping-flavored-e-liquid-from-an-electronic-cigare-76YHFV7"
+        },
+        {
+            "filename": "G-2.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/puffclouds\/wp-content\/uploads\/sites\/11\/2021\/09\/G-2-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-product.json",
+                    "name": "Our Product"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                }
+            ],
+            "filesize": 207854,
+            "dimensions": [
+                900,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/billows-52WVKRN"
+        },
+        {
+            "filename": "G-1.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/puffclouds\/wp-content\/uploads\/sites\/11\/2021\/09\/G-1-800x356.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-product.json",
+                    "name": "Our Product"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                }
+            ],
+            "filesize": 106040,
+            "dimensions": [
+                900,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/modern-girl-outdoor-smoking-vaping-electronic-ciga-GBABQ5M"
+        },
+        {
+            "filename": "G-3.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/puffclouds\/wp-content\/uploads\/sites\/11\/2021\/09\/G-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-product.json",
+                    "name": "Our Product"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                }
+            ],
+            "filesize": 111304,
+            "dimensions": [
+                400,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/hairless-bearded-male-holds-electronic-cigarette-477DUP2"
+        },
+        {
+            "filename": "Landing-Bg-1.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/puffclouds\/wp-content\/uploads\/sites\/11\/2021\/09\/Landing-Bg-1.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                }
+            ],
+            "filesize": 17844,
+            "dimensions": [
+                564,
+                951
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image-3.2.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/puffclouds\/wp-content\/uploads\/sites\/11\/2021\/09\/image-3.2.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 242767,
+            "dimensions": [
+                759,
+                639
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/male-with-tattoo-on-arms-in-studio-PQS5E5Z"
+        },
+        {
+            "filename": "TTD.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/puffclouds\/wp-content\/uploads\/sites\/11\/2021\/09\/TTD.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 5251,
+            "dimensions": [
+                300,
+                90
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Landing-2.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/puffclouds\/wp-content\/uploads\/sites\/11\/2021\/09\/Landing-2.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                }
+            ],
+            "filesize": 236545,
+            "dimensions": [
+                451,
+                760
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/vape-kit-mockup-AQ58J9U"
+        },
+        {
+            "filename": "Image-1.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/puffclouds\/wp-content\/uploads\/sites\/11\/2021\/09\/Image-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                }
+            ],
+            "filesize": 117645,
+            "dimensions": [
+                900,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/billows-52WVKRN"
+        },
+        {
+            "filename": "Icon-1.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/puffclouds\/wp-content\/uploads\/sites\/11\/2021\/09\/Icon-1-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                }
+            ],
+            "filesize": 95052,
+            "dimensions": [
+                2500,
+                2500
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Icon-2.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/puffclouds\/wp-content\/uploads\/sites\/11\/2021\/09\/Icon-2-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                }
+            ],
+            "filesize": 94519,
+            "dimensions": [
+                2500,
+                2500
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "LP3.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/puffclouds\/wp-content\/uploads\/sites\/11\/2021\/09\/LP3-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                }
+            ],
+            "filesize": 226203,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/stylish-girl-smoking-an-e-cigarette-UL94RPC"
+        },
+        {
+            "filename": "LP-1.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/puffclouds\/wp-content\/uploads\/sites\/11\/2021\/09\/LP-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                }
+            ],
+            "filesize": 154277,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/stylish-and-elegant-man-in-a-city-with-vape-T6PJ9R9"
+        },
+        {
+            "filename": "LP-2.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/puffclouds\/wp-content\/uploads\/sites\/11\/2021\/09\/LP-2-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                }
+            ],
+            "filesize": 147808,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-young-woman-vape-an-electronic-cigaret-6FLKW7B"
+        },
+        {
+            "filename": "Landing-1.2.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/puffclouds\/wp-content\/uploads\/sites\/11\/2021\/09\/Landing-1.2.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                }
+            ],
+            "filesize": 237498,
+            "dimensions": [
+                385,
+                570
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/vaping-young-beautiful-woman-smoking-e-cigarette-w-4MF5N79"
+        }
+    ]
+}
